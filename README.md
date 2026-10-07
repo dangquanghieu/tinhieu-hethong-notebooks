@@ -2,6 +2,10 @@
 
 Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống**. Mỗi notebook gồm phần tóm tắt lý thuyết, code Python và hình vẽ minh họa. Sinh viên chỉ cần **đọc và chạy lần lượt các cell**, không phải tự viết code.
 
+Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://github.com/dangquanghieu/book-thht)
+
+**Lưu ý**: Vẫn đang trong quá trình hoàn thiện!
+
 ## Danh sách notebook
 
 | # | Chủ đề | Mở trên Colab |
