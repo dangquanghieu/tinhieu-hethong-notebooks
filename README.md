@@ -7,6 +7,7 @@ Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống
 | # | Chủ đề | Mở trên Colab |
 |---|--------|---------------|
 | 00 | Phép chập rời rạc (discrete-time convolution) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/00_phep-chap-roi-rac.ipynb) |
+| 01 | Biểu diễn và các dạng tín hiệu cơ bản | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/01_bieu-dien-tin-hieu.ipynb) |
 
 Thuật ngữ dùng trong các notebook: [`docs/thuat-ngu.md`](docs/thuat-ngu.md).
 
