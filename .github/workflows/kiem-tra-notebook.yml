@@ -25,6 +25,6 @@ jobs:
         run: |
           for nb in notebooks/*.ipynb; do
             echo "::group::$nb"
-            jupyter nbconvert --to notebook --execute "$nb" --output-dir /tmp/out --ExecutePreprocessor.timeout=300
+            jupyter nbconvert --to notebook --execute "$nb" --output-dir /tmp/out --ExecutePreprocessor.timeout=300 --ExecutePreprocessor.kernel_name=python3
             echo "::endgroup::"
           done
