@@ -11,6 +11,7 @@ Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://git
 | # | Chủ đề | Mở trên Colab |
 |---|--------|---------------|
 | 01 | Biểu diễn và các dạng tín hiệu cơ bản | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/01_bieu-dien-tin-hieu.ipynb) |
+| 02 | Phép chập trong hệ thống LTI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/02_phep-chap-lti.ipynb) |
 
 Thuật ngữ dùng trong các notebook: [`docs/thuat-ngu.md`](docs/thuat-ngu.md).
 
