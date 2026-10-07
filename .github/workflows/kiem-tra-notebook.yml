@@ -1,0 +1,30 @@
+name: Kiểm tra notebook
+
+on:
+  push:
+    paths: ["notebooks/**", "requirements.txt", ".github/workflows/**"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  chay-notebook:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Cài thư viện
+        run: |
+          pip install -r requirements.txt
+          pip install nbconvert
+      - name: Chạy toàn bộ notebook (không ghi đè file)
+        env:
+          MPLBACKEND: Agg
+        run: |
+          for nb in notebooks/*.ipynb; do
+            echo "::group::$nb"
+            jupyter nbconvert --to notebook --execute "$nb" --output-dir /tmp/out --ExecutePreprocessor.timeout=300
+            echo "::endgroup::"
+          done

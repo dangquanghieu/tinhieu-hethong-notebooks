@@ -1,0 +1,12 @@
+# Môi trường Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hệ điều hành / editor
+.DS_Store
+Thumbs.db
