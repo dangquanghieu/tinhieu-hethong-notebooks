@@ -4,7 +4,7 @@ Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống
 
 Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://github.com/dangquanghieu/book-thht)
 
-**Lưu ý**: Các bài này có sử dụng hỗ trợ từ GitHub Copilot, và vẫn *đang trong quá trình hoàn thiện!*
+**Lưu ý**: Các bài này vẫn *đang trong quá trình hoàn thiện!*
 
 ## Danh sách notebook
 
