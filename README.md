@@ -6,7 +6,7 @@ Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống
 
 | # | Chủ đề | Mở trên Colab |
 |---|--------|---------------|
-| 00 | Phép chập rời rạc (discrete-time convolution) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<USER>/<REPO>/blob/main/notebooks/00_phep-chap-roi-rac.ipynb) |
+| 00 | Phép chập rời rạc (discrete-time convolution) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/00_phep-chap-roi-rac.ipynb) |
 
 Thuật ngữ dùng trong các notebook: [`docs/thuat-ngu.md`](docs/thuat-ngu.md).
 
@@ -19,7 +19,7 @@ Thuật ngữ dùng trong các notebook: [`docs/thuat-ngu.md`](docs/thuat-ngu.md
 **Cách 3 — Chạy trên máy cá nhân:**
 
 ```bash
-git clone https://github.com/<USER>/<REPO>.git
+git clone https://github.com/dangquanghieu/tinhieu-hethong-notebooks.git
 cd tinhieu-hethong-notebooks
 python -m venv .venv
 # Windows: .venv\Scripts\activate    |   macOS/Linux: source .venv/bin/activate
