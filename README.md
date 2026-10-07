@@ -4,7 +4,7 @@ Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống
 
 Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://github.com/dangquanghieu/book-thht)
 
-**Lưu ý**: Vẫn đang trong quá trình hoàn thiện!
+**Lưu ý**: Các bài này có sử dụng hỗ trợ từ Claude AI và GitHub Copilot, và vẫn *đang trong quá trình hoàn thiện!*
 
 ## Danh sách notebook
 
@@ -18,7 +18,7 @@ Thuật ngữ dùng trong các notebook: [`docs/thuat-ngu.md`](docs/thuat-ngu.md
 
 **Cách 1 — Google Colab (khuyến nghị):** bấm nút *Open in Colab* ở bảng trên, sau đó chọn *Runtime → Run all* (hoặc chạy từng cell bằng `Shift+Enter`). Không cần cài đặt gì. Muốn lưu lại bản đã chỉnh sửa: *File → Save a copy in Drive*.
 
-**Cách 2 — Xem trực tiếp trên GitHub:** bấm vào file `.ipynb` trong thư mục `notebooks/`. Bạn sẽ thấy nội dung và hình vẽ, nhưng không chạy được code và không dùng được thanh trượt tương tác.
+**Cách 2 — Xem trực tiếp trên GitHub:** bấm vào file `.ipynb` trong thư mục `notebooks/`. Bạn sẽ thấy nội dung và hình vẽ, nhưng không chạy được code và (có thể) không dùng được một số tính năng tương tác nâng cao.
 
 **Cách 3 — Chạy trên máy cá nhân:**
 
