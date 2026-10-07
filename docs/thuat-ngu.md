@@ -181,6 +181,9 @@
 | trung bình trượt; bộ lọc trung bình trượt | moving average (filter) |
 | quá độ (đoạn quá độ) | transient |
 | tính giao hoán (của phép chập) | commutativity |
+| xung vuông | rectangular pulse |
+| quy tắc hình thang | trapezoidal rule |
+| thử nghiệm Monte Carlo | Monte Carlo experiment |
 
 ## Ký hiệu dùng trong notebook
 
