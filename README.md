@@ -11,6 +11,7 @@ Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống
 | 01 | Biểu diễn và các dạng tín hiệu cơ bản | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/01_bieu-dien-tin-hieu.ipynb) |
 | 02 | Phép chập trong hệ thống LTI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/02_phep-chap-lti.ipynb) |
 | 03 | Phép tương quan và minh họa cho ứng dụng radar | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/03_phep-tuong-quan-va-radar.ipynb) |
+| 04 | Khai triển chuỗi Fourier: FS và DTFS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/04_khai-trien-chuoi-fourier.ipynb) |
 
 Thuật ngữ dùng trong các notebook: [`docs/thuat-ngu.md`](docs/thuat-ngu.md).
 
