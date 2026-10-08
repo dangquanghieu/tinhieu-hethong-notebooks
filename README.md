@@ -1,6 +1,6 @@
 # Notebook minh họa — Tín hiệu và Hệ thống
 
-Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống**. Mỗi notebook gồm phần tóm tắt lý thuyết, code Python và hình vẽ minh họa. Sinh viên chỉ cần **đọc và chạy lần lượt các cell**, không phải tự viết code. Tuy nhiên, tác giả khuyên bạn đọc clone về máy cá nhân, đọc kỹ từng dòng code, thay đổi và viết thêm để có thể nắm chắc và hiểu sâu hơn các vấn đề. 
+Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống**. Mỗi notebook gồm phần tóm tắt lý thuyết, code Python và hình vẽ minh họa. Sinh viên chỉ cần **đọc và chạy lần lượt các cell**, không phải tự viết code. Tuy nhiên, nếu bạn đọc clone về máy cá nhân, đọc kỹ từng dòng code, thay đổi và viết thêm thì có thể sẽ nắm chắc và hiểu sâu hơn các vấn đề. 
 
 Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://github.com/dangquanghieu/book-thht)
 
