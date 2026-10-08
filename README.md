@@ -1,8 +1,6 @@
 # Notebook minh họa — Tín hiệu và Hệ thống
 
-Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống**. Mỗi notebook gồm phần tóm tắt lý thuyết, code Python và hình vẽ minh họa. Sinh viên chỉ cần **đọc và chạy lần lượt các cell**, không phải tự viết code. Tuy nhiên, nếu bạn đọc clone về máy cá nhân, đọc kỹ từng dòng code, thay đổi và viết thêm thì có thể sẽ nắm chắc và hiểu sâu hơn các vấn đề. 
-
-Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://github.com/dangquanghieu/book-thht)
+Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống**. Mỗi notebook gồm phần tóm tắt lý thuyết, code Python và hình vẽ minh họa. Sinh viên chỉ cần **đọc và chạy lần lượt các cell**. Tuy nhiên, nếu bạn đọc clone về máy cá nhân, đọc kỹ từng dòng code, thay đổi và viết thêm thì có thể sẽ nắm chắc và hiểu sâu hơn các vấn đề. 
 
 **Lưu ý**: Các bài này vẫn *đang trong quá trình hoàn thiện!*
 
@@ -14,6 +12,9 @@ Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://git
 | 02 | Phép chập trong hệ thống LTI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/02_phep-chap-lti.ipynb) |
 
 Thuật ngữ dùng trong các notebook: [`docs/thuat-ngu.md`](docs/thuat-ngu.md).
+
+Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://github.com/dangquanghieu/book-thht)
+
 
 ## Cách sử dụng
 
