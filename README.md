@@ -1,6 +1,6 @@
 # Notebook minh họa — Tín hiệu và Hệ thống
 
-Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống**. Mỗi notebook gồm phần tóm tắt lý thuyết, code Python và hình vẽ minh họa. Sinh viên chỉ cần **đọc và chạy lần lượt các cell**, không cần viết code. Mục tiêu là để trực quan hóa các khái niệm trong môn học, không phải là để dạy lập trình Python. 
+Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống**. Mỗi notebook gồm phần tóm tắt lý thuyết, code Python và hình vẽ minh họa. Sinh viên chỉ cần **đọc và chạy lần lượt các cell**, không cần viết code. Mục tiêu chính là để trực quan hóa các khái niệm chuyên môn, mục tiêu phụ là hướng dẫn sử dụng Python cho môn học. 
 
 **Lưu ý**: Các bài này vẫn *đang trong quá trình hoàn thiện!*
 
@@ -8,7 +8,7 @@ Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống
 
 | # | Chủ đề | Mở trên Colab |
 |---|--------|---------------|
-| 01 | Biểu diễn và các dạng tín hiệu cơ bản | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/01_bieu-dien-tin-hieu.ipynb) |
+| 01 | Biểu diễn tín hiêu và các phép toán cơ bản | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/01_bieu-dien-tin-hieu.ipynb) |
 | 02 | Phép chập trong hệ thống LTI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/02_phep-chap-lti.ipynb) |
 | 03 | Phép tương quan và minh họa cho ứng dụng radar | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/03_phep-tuong-quan-va-radar.ipynb) |
 | 04 | Khai triển chuỗi Fourier: FS và DTFS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/04_khai-trien-chuoi-fourier.ipynb) |
