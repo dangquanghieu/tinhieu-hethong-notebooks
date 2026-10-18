@@ -58,6 +58,7 @@
 | dạng chính tắc | canonic form |  |
 | tương quan chéo; tự tương quan | cross-correlation; autocorrelation |  |
 | chứng minh phản đảo | proof by contrapositive |  |
+| ma trận Toeplitz | Toeplitz matrix |  |
 | tín hiệu một chiều / nhiều chiều | one-dimensional / multi-dimensional signal |  |
 | tín hiệu một kênh / nhiều kênh | one-channel / multi-channel signal |  |
 | tín hiệu xác định / ngẫu nhiên | deterministic / random signal |  |
