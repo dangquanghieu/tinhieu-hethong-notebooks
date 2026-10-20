@@ -91,7 +91,9 @@
 | đối ngẫu (tính chất) | duality |  |
 | quan hệ Parseval; định lý Plancherel | Parseval's relation; Plancherel theorem |  |
 | khả tích tuyệt đối; khả tổng tuyệt đối | absolutely integrable; absolutely summable |  |
-| hàm sinc; búp chính; búp phụ | sinc function; main lobe; side lobe |  |
+| hàm sinc | sinc function |  |
+| búp chính | main lobe |  |
+| búp phụ | side lobe |  |
 | tín hiệu băng cơ sở; tín hiệu thông dải | baseband signal; bandpass signal |  |
 | đáp ứng biên độ; đáp ứng pha; pha tuyến tính | magnitude response; phase response; linear phase |  |
 | bộ lọc chọn lọc tần số | frequency-selective filter |  |
