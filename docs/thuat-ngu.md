@@ -92,6 +92,7 @@
 | quan hệ Parseval; định lý Plancherel | Parseval's relation; Plancherel theorem |  |
 | khả tích tuyệt đối; khả tổng tuyệt đối | absolutely integrable; absolutely summable |  |
 | hàm sinc | sinc function |  |
+| xung Gauss | Gaussian pulse |  |
 | búp chính | main lobe |  |
 | búp phụ | side lobe |  |
 | tín hiệu băng cơ sở; tín hiệu thông dải | baseband signal; bandpass signal |  |

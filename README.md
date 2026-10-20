@@ -15,6 +15,7 @@ Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống
 | 05 | Tín hiệu hình sin, hệ LTI và đáp ứng tần số | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/05_tin-hieu-hinh-sin-va-dap-ung-tan-so.ipynb) |
 | 06 | Biến đổi Fourier của tín hiệu rời rạc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/06_bien-doi-fourier-tin-hieu-roi-rac.ipynb) |
 | 07 | Dùng DFT và FFT để vẽ phổ tín hiệu rời rạc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/07_dft-va-fft-tin-hieu-roi-rac.ipynb) |
+| 08 | Biến đổi Fourier của tín hiệu liên tục | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquanghieu/tinhieu-hethong-notebooks/blob/main/notebooks/08_bien-doi-fourier-tin-hieu-lien-tuc.ipynb) |
 
 Thuật ngữ dùng trong các notebook: [`docs/thuat-ngu.md`](docs/thuat-ngu.md).
 
