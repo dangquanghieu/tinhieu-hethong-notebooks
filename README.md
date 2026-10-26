@@ -19,7 +19,7 @@ Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống
 
 Thuật ngữ dùng trong các notebook: [`docs/thuat-ngu.md`](docs/thuat-ngu.md).
 
-Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://github.com/dangquanghieu/book-thht)
+Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://dangquanghieu.com/book-thht/)
 
 
 ## Cách sử dụng
