@@ -2,7 +2,7 @@
 
 Bộ notebook Jupyter minh họa cho học phần **Tín hiệu và Hệ thống**. Mỗi notebook gồm phần tóm tắt lý thuyết, code Python và hình vẽ minh họa. Sinh viên chỉ cần **đọc và chạy lần lượt các cell**, không cần viết code. Mục tiêu chính là để trực quan hóa các khái niệm chuyên môn, mục tiêu phụ là hướng dẫn sử dụng Python cho môn học. 
 
-**Lưu ý**: Các bài này vẫn *đang trong quá trình hoàn thiện!*
+**Lưu ý**: Các bài này được soạn trên VS Code với sự hỗ trợ của GitHub Copilot, và vẫn *đang trong quá trình hoàn thiện!*
 
 ## Danh sách notebook
 
