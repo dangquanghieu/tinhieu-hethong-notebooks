@@ -30,12 +30,36 @@ Tài liệu học tập: [Bài giảng Tín hiệu và hệ thống](https://dan
 
 **Cách 3 — Chạy trên máy cá nhân:**
 
+**Yêu cầu:** Python **3.13**, cùng phiên bản với Google Colab. Các notebook được kiểm thử với Python 3.13.
+
 ```bash
 git clone https://github.com/dangquanghieu/tinhieu-hethong-notebooks.git
 cd tinhieu-hethong-notebooks
-python -m venv .venv
-# Windows: .venv\Scripts\activate    |   macOS/Linux: source .venv/bin/activate
+```
+
+**Windows (PowerShell):**
+
+```powershell
+py -3.13 -m venv .venv
+.venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Sau đó mở thư mục bằng VS Code (cài extension *Python* và *Jupyter*), mở file notebook và chọn kernel `.venv`.
+**macOS / Linux:**
+
+```bash
+python3.13 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Kiểm tra: `python --version` phải ra `3.13.x`. Nếu máy chưa có Python 3.13, tải tại [python.org](https://www.python.org/downloads/).
+
+**Cách nhanh hơn (mọi hệ điều hành):** nếu đã cài [uv](https://docs.astral.sh/uv/), chỉ cần chạy
+
+```bash
+uv venv
+uv pip install -r requirements.txt
+```
+
+`uv` tự đọc file `.python-version` và tự tải Python 3.13 nếu máy chưa có.
